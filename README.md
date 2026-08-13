@@ -12,19 +12,6 @@ Détecter et traiter les valeurs manquantes et les doublons
 Calculer des statistiques descriptives
 Exporter des données nettoyées (CSV, JSON)
 
-## Structure du projet
-atelier_pandas_iot/
-│
-├── data/
-│   └── mesures_capteurs.csv         # jeu de données brut fourni
-│
-├── notebooks/
-│   └── atelier_pandas_iot.ipynb     # notebook contenant l'ensemble de l'atelier
-│
-└── exports/
-    ├── donnees_nettoyees.csv        # export final, données nettoyées
-    └── donnees_nettoyees.json       # export final, format JSON
-
 ## Contenu de l'atelier
 **Partie	Sujet**
 1	Series (création, index, sélection)
