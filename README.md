@@ -15,17 +15,29 @@ Exporter des données nettoyées (CSV, JSON)
 ## Contenu de l'atelier
 **Partie	Sujet**
 1	Series (création, index, sélection)
+
 2	DataFrame (création, import CSV)
+
 3	Exploration (head, tail, info, describe)
+
 4	Sélection (loc, iloc)
+
 5	Manipulation des colonnes (ajout, renommage, suppression)
+
 6	Filtrage conditionnel
+
 7	Tri (sort_values)
+
 8	Analyse et agrégation (groupby)
+
 9	Gestion des valeurs manquantes
+
 10	Gestion des doublons
+
 11	Statistiques descriptives
+
 12	Exportation (CSV, JSON)
+
 13	Bonus
 
 ## Environnement technique
